@@ -13,6 +13,9 @@ import AboutPage from './pages/AboutPage';
 import ContactPage from './pages/ContactPage';
 import NotFoundPage from './pages/NotFoundPage';
 import PreschoolPage from './pages/PreschoolPage';
+import LoginPage from './pages/LoginPage';
+import AdminLogin from './components/admin/AdminLogin';
+import AdminDashboard from './components/admin/AdminDashboard';
 
 // Components
 import LoadingSpinner from './components/common/LoadingSpinner';
@@ -30,6 +33,9 @@ function App() {
           >
             <LanguageSelector />
             <Routes>
+              <Route path="/login" element={<LoginPage />} />
+              <Route path="/admin/login" element={<AdminLogin />} />
+              <Route path="/admin/dashboard" element={<AdminDashboard />} />
               <Route path="/" element={<MainLayout />}>
                 <Route index element={<HomePage />} />
                 <Route path="courses" element={<CoursesPage />} />
