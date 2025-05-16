@@ -20,7 +20,8 @@
     "i18next": "^23.8.2",
     "react-i18next": "^14.0.5",
     "react-hook-form": "^7.50.1",
-    "framer-motion": "^11.0.5"
+    "framer-motion": "^11.0.5",
+    "@tanstack/react-table": "^8.13.2"
   },
   "devDependencies": {
     "@eslint/js": "^9.9.1",
