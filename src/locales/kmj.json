@@ -1,0 +1,83 @@
+{
+  "navigation": {
+    "home": "Sereke",
+    "courses": "Kurs",
+    "preschool": "Zarokxane",
+    "about": "Der barê",
+    "contact": "Têkilî",
+    "login": "Têketin",
+    "signup": "Tomar bike"
+  },
+  "home": {
+    "hero": {
+      "title": "Hîn bibe, Mezin bibe, û Keşf bike bi Pepulekan re",
+      "subtitle": "Platformeke perwerdehiyê ji bo xwendekarên zarokxaneyê û polên destpêkê hatiye sêwirandin",
+      "cta": "Kursan Keşf Bike"
+    },
+    "features": {
+      "title": "Çima Pepulekan Hilbijêrî?",
+      "feature1": {
+        "title": "Perwerdehiya Pirzimanî",
+        "description": "Bi Îngilîzî, Kurdiya Soranî, an Kurdiya Kurmancî hîn bibe"
+      },
+      "feature2": {
+        "title": "Hînbûna Interaktîf",
+        "description": "Bi naveroka interaktîf ya ji bo şêwazên cûrbecûr ên hînbûnê hatiye sêwirandin re mijûl bibe"
+      },
+      "feature3": {
+        "title": "Bernameya Berfireh",
+        "description": "Gihîştina bername-dersan ji zarokxaneyê heta pola 11'an"
+      },
+      "feature4": {
+        "title": "Navrûya Dostane ya Zarokan",
+        "description": "Bi sêwirana me ya hêsan û dostane ya zarokan re bi hêsanî bigere"
+      }
+    }
+  },
+  "courses": {
+    "title": "Kursên Me",
+    "search": "Li kursan bigere",
+    "filter": "Li gorî polê fîlter bike",
+    "allGrades": "Hemû Pol"
+  },
+  "preschool": {
+    "title": "Hînbûna Zarokxaneyê",
+    "subtitle": "Hînbûna şad û interaktîf ji bo xwendekarên me yên herî biçûk",
+    "categories": {
+      "alphabet": "Serpêhatiyên Alfabeyê",
+      "numbers": "Keşfkerên Hejmaran",
+      "colors": "Keşfa Rengan",
+      "shapes": "Naskirina Şiklan"
+    }
+  },
+  "grades": {
+    "preschool": "Zarokxane",
+    "grade1": "Pola 1",
+    "grade2": "Pola 2",
+    "grade3": "Pola 3",
+    "grade4": "Pola 4",
+    "grade5": "Pola 5",
+    "grade6": "Pola 6",
+    "grade7": "Pola 7",
+    "grade8": "Pola 8",
+    "grade9": "Pola 9",
+    "grade10": "Pola 10",
+    "grade11": "Pola 11"
+  },
+  "subjects": {
+    "reading": "Bingehên Xwendinê",
+    "writing": "Nivîsandina Afirîner",
+    "math": "Bingehên Matematîkê",
+    "science": "Keşfkerên Zanistê",
+    "socialStudies": "Xwendinên Civakî",
+    "language": "Hunerên Zimanî",
+    "arts": "Huner û Destkarî"
+  },
+  "footer": {
+    "about": "Der barê Pepulekan",
+    "privacy": "Siyaseta Nepeniyê",
+    "terms": "Mercên Xizmetê",
+    "contact": "Bi Me Re Têkilî Daynin",
+    "rights": "© 2025 Pepulekan. Hemû maf parastî ne."
+  }
+}

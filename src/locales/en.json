@@ -1,0 +1,83 @@
+{
+  "navigation": {
+    "home": "Home",
+    "courses": "Courses",
+    "preschool": "Preschool",
+    "about": "About",
+    "contact": "Contact",
+    "login": "Login",
+    "signup": "Sign Up"
+  },
+  "home": {
+    "hero": {
+      "title": "Learn, Grow, and Explore with Pepulekan",
+      "subtitle": "An educational platform designed for preschool and early grade learners",
+      "cta": "Explore Courses"
+    },
+    "features": {
+      "title": "Why Choose Pepulekan?",
+      "feature1": {
+        "title": "Multilingual Education",
+        "description": "Learn in English, Sorani Kurdish, or Kurmanji Kurdish"
+      },
+      "feature2": {
+        "title": "Interactive Learning",
+        "description": "Engage with interactive content designed for different learning styles"
+      },
+      "feature3": {
+        "title": "Comprehensive Curriculum",
+        "description": "Access complete syllabi from preschool to grade 11"
+      },
+      "feature4": {
+        "title": "Child-Friendly Interface",
+        "description": "Navigate easily with our intuitive, child-friendly design"
+      }
+    }
+  },
+  "courses": {
+    "title": "Our Courses",
+    "search": "Search courses",
+    "filter": "Filter by grade",
+    "allGrades": "All Grades"
+  },
+  "preschool": {
+    "title": "Preschool Learning",
+    "subtitle": "Fun and interactive learning for our youngest students",
+    "categories": {
+      "alphabet": "Alphabet Adventures",
+      "numbers": "Number Explorers",
+      "colors": "Color Discovery",
+      "shapes": "Shape Recognition"
+    }
+  },
+  "grades": {
+    "preschool": "Preschool",
+    "grade1": "Grade 1",
+    "grade2": "Grade 2",
+    "grade3": "Grade 3",
+    "grade4": "Grade 4",
+    "grade5": "Grade 5",
+    "grade6": "Grade 6",
+    "grade7": "Grade 7",
+    "grade8": "Grade 8",
+    "grade9": "Grade 9",
+    "grade10": "Grade 10",
+    "grade11": "Grade 11"
+  },
+  "subjects": {
+    "reading": "Reading Fundamentals",
+    "writing": "Creative Writing",
+    "math": "Math Basics",
+    "science": "Science Explorers",
+    "socialStudies": "Social Studies",
+    "language": "Language Arts",
+    "arts": "Arts & Crafts"
+  },
+  "footer": {
+    "about": "About Pepulekan",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "contact": "Contact Us",
+    "rights": "© 2025 Pepulekan. All rights reserved."
+  }
+}
