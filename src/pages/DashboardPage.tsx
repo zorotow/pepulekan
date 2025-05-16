@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
-import { useSupabaseClient, useUser } from '@supabase/auth-helpers-react';
+import { useSupabase } from '../context/SupabaseContext';
 import { BookOpen, Clock, GraduationCap } from 'lucide-react';
 
 interface Course {
@@ -20,8 +20,7 @@ interface Enrollment {
 }
 
 function DashboardPage() {
-  const supabase = useSupabaseClient();
-  const user = useUser();
+  const { supabase, user } = useSupabase();
   const navigate = useNavigate();
   const [enrollments, setEnrollments] = useState<Enrollment[]>([]);
   const [loading, setLoading] = useState(true);
